@@ -1,0 +1,15 @@
+{
+  "name": "testing-exercises",
+  "version": "1.0.0",
+  "description": "Taking first step to do unit testing",
+  "main": "addLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
